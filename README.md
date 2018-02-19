@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/ompldr/ompldr-client-js.svg?branch=master)](https://travis-ci.org/ompldr/ompldr-client-js)
 # omploader
 
 Omploader - JavaScript client for omploader
